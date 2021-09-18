@@ -1,4 +1,4 @@
-#download your book as txt file and then save it as "MyBook" along with your codes then enjoy!
+#download your book as txt file and then save it as "MyBook" along with your code file.
 import pyttsx3 as py
 speaker=py.init()
 voices=speaker.getProperty('voices')
